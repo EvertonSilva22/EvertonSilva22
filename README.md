@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end ...
 - 🌱 Estudando JavaScript ...
 - 🏀 Esporte favorito. 
-- 💻 Principal meta: Ser um Full-stack Developer.
+- 💻 Principal meta: Full-stack Developer.
 
 ##
 <div align="center">
